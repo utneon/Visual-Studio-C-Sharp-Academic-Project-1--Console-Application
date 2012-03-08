@@ -1,0 +1,5 @@
+C:\Users\Paulo\documents\visual studio 2010\Projects\multimediasavetext\multimediasavetext\bin\Debug\multimediasavetext.exe
+C:\Users\Paulo\documents\visual studio 2010\Projects\multimediasavetext\multimediasavetext\bin\Debug\multimediasavetext.pdb
+C:\Users\Paulo\documents\visual studio 2010\Projects\multimediasavetext\multimediasavetext\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paulo\documents\visual studio 2010\Projects\multimediasavetext\multimediasavetext\obj\x86\Debug\multimediasavetext.exe
+C:\Users\Paulo\documents\visual studio 2010\Projects\multimediasavetext\multimediasavetext\obj\x86\Debug\multimediasavetext.pdb
